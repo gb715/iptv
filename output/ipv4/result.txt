@@ -1,11 +1,10 @@
 🕘️更新时间,#genre#
-2025-06-19 06:22:17,http://119.32.12.17:2901/udp/224.1.100.90:11111
+2025-06-19 18:25:45,http://119.32.12.17:2901/udp/224.1.100.90:11111
 
 📺央视频道,#genre#
 CCTV-1,http://119.32.12.17:2901/udp/224.1.100.90:11111
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-5+,http://omnix.cn:4000/udp/225.1.8.20:8004
-CCTV-7,http://qjrhc.jydjd.top:2911/udp/224.1.100.27:11111
 CCTV-12,http://119.32.12.17:2901/udp/224.1.100.78:11111
 
 📡卫视频道,#genre#
@@ -14,7 +13,6 @@ CCTV-12,http://119.32.12.17:2901/udp/224.1.100.78:11111
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://119.32.12.17:2901/udp/224.1.100.66:11111
-安徽卫视,http://121.17.146.178:50003/hls/46/index.m3u8
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 广西卫视,http://119.32.12.17:2901/udp/224.1.100.110:11111
@@ -32,7 +30,6 @@ CCTV-12,http://119.32.12.17:2901/udp/224.1.100.78:11111
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 三沙卫视,http://www.jiaocj.xyz:4000/udp/239.49.0.167:8000
-天津卫视,http://121.17.146.178:50003/hls/40/index.m3u8
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
 
@@ -41,11 +38,11 @@ CCTV-12,http://119.32.12.17:2901/udp/224.1.100.78:11111
 嘉兴新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 
 🏀体育频道,#genre#
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
-山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,http://live.xmcdn.com/live/805/64.m3u8
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
@@ -55,6 +52,7 @@ CCTV-2,url
 CCTV-3,url
 CCTV-4,url
 CCTV-6,url
+CCTV-7,url
 CCTV-8,url
 CCTV-9,url
 CCTV-10,url
@@ -78,6 +76,7 @@ CETV4,url
 辽宁卫视,url
 宁夏卫视,url
 陕西卫视,url
+天津卫视,url
 云南卫视,url
 浙江钱江,url
 浙江钱江都市,url
