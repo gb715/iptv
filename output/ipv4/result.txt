@@ -1,15 +1,16 @@
 🕘️更新时间,#genre#
-2025-06-24 06:23:32,http://119.32.12.17:2901/udp/224.1.100.90:11111
+2025-06-24 18:26:13,http://119.32.12.17:2901/udp/224.1.100.90:11111
 
 📺央视频道,#genre#
 CCTV-1,http://119.32.12.17:2901/udp/224.1.100.90:11111
+CCTV-4,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-5+,http://omnix.cn:4000/udp/225.1.8.20:8004
-CCTV-5+,http://124.220.159.96:35455/mgtv/641886773.m3u8
 CCTV-12,http://119.32.12.17:2901/udp/224.1.100.78:11111
-CCTV-14,http://1.24.190.98:10080/hls/14/index.m3u8
 
 📡卫视频道,#genre#
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8?a=1000&amp;d=d396e340de48108a9576134d5b090354&amp;k=60ede3db45d8640ab1db2b9f0dfa7549&amp;t=1671539989
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
@@ -29,31 +30,42 @@ CCTV-14,http://1.24.190.98:10080/hls/14/index.m3u8
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
-山西卫视,http://113.25.252.226:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://124.220.159.96:35455/mgtv/738910838.m3u8
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
+四川卫视,http://1.24.190.98:10080/hls/86/index.m3u8
 深圳卫视,http://satellitepull.cnr.cn/live/wxszws/playlist.m3u8
 三沙卫视,http://www.jiaocj.xyz:4000/udp/239.49.0.167:8000
+天津卫视,http://1.24.190.98:10080/hls/69/index.m3u8
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
 
 ☘️浙江频道,#genre#
+浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?fbl=
+浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
+浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
 杭州综合,http://live.xmcdn.com/live/1845/64.m3u8
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
+浙江国际,http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8?a=1000&d=4e3d476240659192311f471b7b63aec2&k=d26568bae9dd23dd781c769c148459b2&t=1683180450
 嘉兴新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
 
 🏀体育频道,#genre#
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,http://live.xmcdn.com/live/805/64.m3u8
-JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
+JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
 
 🈳无结果频道,#genre#
 CCTV-2,url
 CCTV-3,url
-CCTV-4,url
 CCTV-6,url
 CCTV-7,url
 CCTV-8,url
@@ -61,6 +73,7 @@ CCTV-9,url
 CCTV-10,url
 CCTV-11,url
 CCTV-13,url
+CCTV-14,url
 CCTV-15,url
 CCTV-16,url
 CCTV-17,url
@@ -69,7 +82,6 @@ CETV2,url
 CETV4,url
 广东卫视,url
 香港卫视,url
-浙江卫视,url
 湖南卫视,url
 东方卫视,url
 甘肃卫视,url
@@ -77,32 +89,24 @@ CETV4,url
 江西卫视,url
 辽宁卫视,url
 宁夏卫视,url
-陕西卫视,url
-天津卫视,url
 云南卫视,url
-浙江钱江,url
 浙江钱江都市,url
 浙江钱江台,url
 浙江生活,url
 浙江经济生活,url
 浙江教育,url
 浙江民生,url
-浙江新闻,url
-浙江少儿,url
 杭州明珠,url
 杭州生活,url
 杭州影视,url
 杭州少体,url
 浙江教科,url
 浙江经济,url
-之江纪录,url
-浙江国际,url
 湖州公共,url
 浙江经视,url
 浙江留学,url
 浙江民生休闲,url
 浙江数码时代,url
-浙江教科影院,url
 浙江教科影视,url
 浙江公共新闻,url
 浙江休闲台,url
