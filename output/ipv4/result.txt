@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-27 06:23:45,http://119.32.12.17:2901/udp/224.1.100.90:11111
+2025-06-27 18:26:36,http://119.32.12.17:2901/udp/224.1.100.90:11111
 
 📺央视频道,#genre#
 CCTV-1,http://119.32.12.17:2901/udp/224.1.100.90:11111
@@ -8,7 +8,7 @@ CCTV-5+,http://omnix.cn:4000/udp/225.1.8.20:8004
 CCTV-12,http://119.32.12.17:2901/udp/224.1.100.78:11111
 
 📡卫视频道,#genre#
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8
@@ -34,18 +34,26 @@ CCTV-12,http://119.32.12.17:2901/udp/224.1.100.78:11111
 新疆卫视,http://satellitepull.cnr.cn/live/wxxjws/playlist.m3u8
 
 ☘️浙江频道,#genre#
+浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?fbl=
+浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 杭州综合,http://live.xmcdn.com/live/1845/64.m3u8
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
 嘉兴新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
 
 🏀体育频道,#genre#
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,http://live.xmcdn.com/live/805/64.m3u8
-JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 JJ斗地主,http://zzy789.xyz/douyu1.php?id=488743
+JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 
 🈳无结果频道,#genre#
 CCTV-2,url
@@ -78,29 +86,23 @@ CETV4,url
 三沙卫视,url
 天津卫视,url
 云南卫视,url
-浙江钱江,url
 浙江钱江都市,url
 浙江钱江台,url
 浙江生活,url
 浙江经济生活,url
 浙江教育,url
 浙江民生,url
-浙江新闻,url
-浙江少儿,url
 杭州明珠,url
 杭州生活,url
 杭州影视,url
 杭州少体,url
 浙江教科,url
 浙江经济,url
-之江纪录,url
-浙江国际,url
 湖州公共,url
 浙江经视,url
 浙江留学,url
 浙江民生休闲,url
 浙江数码时代,url
-浙江教科影院,url
 浙江教科影视,url
 浙江公共新闻,url
 浙江休闲台,url
