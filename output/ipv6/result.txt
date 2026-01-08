@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-08 18:30:03,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-09 06:27:01,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -758,5 +758,6 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 开化国家公园,url
 义乌新闻综合,url
 福建体育,url
+天津体育,url
 江苏体育,url
 足球频道,url
